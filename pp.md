@@ -1,1 +1,1 @@
-api.vshowapi.com
+api.vshow-live.com
