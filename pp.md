@@ -1,1 +1,1 @@
-api.vshow-live.com
+d1w2m54guhra5b.cloudfront.net
